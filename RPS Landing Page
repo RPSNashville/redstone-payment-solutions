@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redstone Payment Solutions Nashville</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        .file-uploader {
+            margin-top: 20px;
+        }
+
+        .file-uploader label {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .file-uploader input {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Redstone Payment Solutions Nashville</h1>
+    </header>
+
+    <section>
+        <h2>Welcome to Redstone Payment Solutions Nashville</h2>
+        <p>Your trusted partner for secure and efficient payment solutions in Nashville.</p>
+    </section>
+
+    <section>
+        <h2>Our Services</h2>
+        <p>We offer a range of payment solutions to meet your business needs:</p>
+        <ul>
+            <li>Online Payments</li>
+            <li>Point of Sale (POS) Systems</li>
+            <li>Mobile Payments</li>
+            <li>Secure Transactions</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact Us</h2>
+        <p>Get in touch with us for personalized payment solutions:</p>
+        <p>Email: <a href="mailto:dbrusich@redstonepaymentsolutions.com">dbrusich@redstonepaymentsolutions.com</a></p>
+        <p>Phone: 615-205-7577</p>
+    </section>
+
+    <section class="file-uploader">
+        <h2>Upload Statement</h2>
+        <label for="fileInput">Choose file</label>
+        <input type="file" id="fileInput" name="fileInput" accept=".pdf, .doc, .docx">
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Redstone Payment Solutions Nashville. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
